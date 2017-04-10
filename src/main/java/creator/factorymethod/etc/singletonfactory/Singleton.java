@@ -1,4 +1,4 @@
-package creatorpatten.factorymethod.etc.singletonfactory;
+package creator.factorymethod.etc.singletonfactory;
 
 /**
  * @author wanghaiyong

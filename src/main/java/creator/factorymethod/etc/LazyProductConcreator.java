@@ -1,11 +1,11 @@
-package creatorpatten.factorymethod.etc;
+package creator.factorymethod.etc;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import creatorpatten.factorymethod.Product;
-import creatorpatten.factorymethod.etc.complexfactory.ConcreteProduct1;
-import creatorpatten.factorymethod.etc.complexfactory.ConcreteProduct2;
+import creator.factorymethod.Product;
+import creator.factorymethod.etc.complexfactory.ConcreteProduct1;
+import creator.factorymethod.etc.complexfactory.ConcreteProduct2;
 
 /**
  * 延迟初始化

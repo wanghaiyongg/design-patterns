@@ -1,4 +1,4 @@
-package creatorpatten.singleton;
+package creator.singleton;
 
 public class Singleton {
 

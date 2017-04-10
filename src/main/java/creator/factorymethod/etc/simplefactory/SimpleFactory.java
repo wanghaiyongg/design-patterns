@@ -1,6 +1,6 @@
-package creatorpatten.factorymethod.etc.simplefactory;
+package creator.factorymethod.etc.simplefactory;
 
-import creatorpatten.factorymethod.Product;
+import creator.factorymethod.Product;
 
 /**
  * 静态工厂

@@ -1,6 +1,6 @@
-package creatorpatten.factorymethod.etc.complexfactory;
+package creator.factorymethod.etc.complexfactory;
 
-import creatorpatten.factorymethod.Product;
+import creator.factorymethod.Product;
 
 /**
  * 具体产品

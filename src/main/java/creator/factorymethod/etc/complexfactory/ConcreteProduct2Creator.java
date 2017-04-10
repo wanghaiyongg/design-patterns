@@ -1,4 +1,4 @@
-package creatorpatten.factorymethod.etc.complexfactory;
+package creator.factorymethod.etc.complexfactory;
 
 /**
  * 具体工厂

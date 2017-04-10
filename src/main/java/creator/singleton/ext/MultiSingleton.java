@@ -1,4 +1,4 @@
-package creatorpatten.singleton.ext;
+package creator.singleton.ext;
 
 import java.util.ArrayList;
 import java.util.List;

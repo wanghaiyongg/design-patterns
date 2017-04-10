@@ -1,4 +1,4 @@
-package creatorpatten.factorymethod;
+package creator.factorymethod;
 
 /**
  * 抽象工厂

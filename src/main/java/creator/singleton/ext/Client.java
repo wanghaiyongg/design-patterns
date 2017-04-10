@@ -1,4 +1,4 @@
-package creatorpatten.singleton.ext;
+package creator.singleton.ext;
 
 public class Client {
 

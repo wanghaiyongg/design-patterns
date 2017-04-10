@@ -1,4 +1,4 @@
-package creatorpatten.factorymethod;
+package creator.factorymethod;
 
 /**
  * 定义产品的共性
