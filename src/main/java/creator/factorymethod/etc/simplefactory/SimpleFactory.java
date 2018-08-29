@@ -1,25 +1,18 @@
 package creator.factorymethod.etc.simplefactory;
 
-import creator.factorymethod.Product;
+import creator.factorymethod.common.ConcreteProduct;
+import creator.factorymethod.common.Product;
 
 /**
  * 静态工厂
  * 简单工厂模式
- * @author wanghaiyong
  *
+ * @author wanghaiyong
  */
 public class SimpleFactory {
 
-	public static Product createProduct(Class<? extends Product> c) {
-		Product pr = null;
+    public static Product createProduct() {
+        return new ConcreteProduct();
+    }
 
-		try {
-			pr = (Product) Class.forName(c.getName()).newInstance();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-
-		return pr;
-	}
-	
 }
